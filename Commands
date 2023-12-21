@@ -1,2 +1,21 @@
 git clone -- clone a repository 
 git clone <url>
+
+git status
+
+git checkout <branch-name>  -- for existing branch
+
+git checkout -b <name-of-branch>  -- creats new branch and switch to new branch
+
+git add <name-of-file>
+git add .
+git add *.txt
+
+git commit -m "Information for the commit"
+git push 
+
+
+
+
+
+
