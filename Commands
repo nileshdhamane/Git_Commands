@@ -1,0 +1,2 @@
+git clone -- clone a repository 
+git clone <url>
